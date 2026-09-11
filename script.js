@@ -284,7 +284,7 @@ function App() {
     jobTitle: "UI/UX Designer",
     company: "Creative Studio",
     phone: "+91 91234 56789",
-    email: "aarav@example.com",
+    email: "aditi@example.com",
     bio: "Designer focused on creating simple, beautiful and user-friendly digital products.",
     avatar: ""
   }]
